@@ -192,6 +192,7 @@ mod.io
 nexusmods.com
 modrinth.com
 curseforge.com
+playground.ru
 
 # Музыка, аудио и видеоинструменты
 bandcamp.com
